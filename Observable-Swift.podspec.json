@@ -1,10 +1,11 @@
 {
     "name"              : "Observable-Swift",
     "module_name"       : "Observable",
-    "version"           : "0.7.0",
+    "version"           : "0.7.1",
     "license"           : "MIT",
     "platforms"         : {
         "ios"           : "8.0",
+        "tvos"           : "9.0",
         "osx"           : "10.9"
     },
     "homepage"          : "https://github.com/slazyk/Observable-Swift",
